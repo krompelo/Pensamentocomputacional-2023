@@ -1,2 +1,2 @@
-# improved-octo-garbanzo
+# Pensamentocomputacional
 Repositório criado para guardar projetos escolares.
